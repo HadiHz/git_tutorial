@@ -1,1 +1,1 @@
-print("new")
+print(5 + 6 )
